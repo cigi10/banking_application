@@ -1,3 +1,4 @@
 # banking_application
 
-A simple banking application made using C and file handeling.
+A simple banking application made using C and file handling.
+
